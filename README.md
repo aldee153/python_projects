@@ -1,2 +1,2 @@
-# python_projects
-List of small python projects
+# email_playground
+Python script for sending emails

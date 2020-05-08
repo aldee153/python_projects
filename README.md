@@ -12,5 +12,7 @@ If the password has been hacked then a new password will be recommended.
 Creates a bot that follows users back and another bot that likes specific keyword tweets.
 
 ## SMS Bot
-Using twilio account to send free SMS.
+Use twilio API to send free SMS.
 
+## Web Scraper
+Use beautifulsoup4 to scrape the web.

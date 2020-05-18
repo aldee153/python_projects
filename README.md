@@ -16,3 +16,6 @@ Use twilio API to send free SMS.
 
 ## Web Scraper
 Use beautifulsoup4 to scrape the web.
+
+## Testing/Automation
+Use selenium for testing website.
